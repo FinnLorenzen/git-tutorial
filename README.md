@@ -1,4 +1,4 @@
 # git-tutorial
 
-## New
+## Basic commands
 
